@@ -4,8 +4,9 @@ This website is an application I designed and developed for an imaginary constru
 ## Design Process
 I began the design process by creating Low-Fidely wireframes for all of the pages this website needed. These gave me an idea of the layout and content I wanted for each page. I have these low-fidelity wireframes listed below.
 
-[Landing Page.pdf](https://github.com/SheltonRolleFS/Construction-Site/files/8102807/Landing.Page.pdf)
-[Services.pdf](https://github.com/SheltonRolleFS/Construction-Site/files/8102808/Services.pdf)
-[Portfolio page.pdf](https://github.com/SheltonRolleFS/Construction-Site/files/8102809/Portfolio.page.pdf)
-[Contact Page.pdf](https://github.com/SheltonRolleFS/Construction-Site/files/8102810/Contact.Page.pdf)
+![Landing Page](https://user-images.githubusercontent.com/70646549/154814657-1c206f46-bb09-4632-a6a9-419a47aeb881.png)
+![Services](https://user-images.githubusercontent.com/70646549/154814663-078b8b3c-5158-409a-b8b4-c6e4355fbbbc.png)
+![Portfolio page](https://user-images.githubusercontent.com/70646549/154814668-03cecc76-a20a-4cb4-8135-de945c1f5531.png)
+![Contact Page](https://user-images.githubusercontent.com/70646549/154814671-0823dae0-1919-4794-99ff-6ae2b8af0c07.png)
+
 
